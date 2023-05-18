@@ -64,12 +64,12 @@
      id="namedview12"
      showgrid="false"
      inkscape:zoom="1"
-     inkscape:cx="192"
-     inkscape:cy="177.5"
+     inkscape:cx="-2"
+     inkscape:cy="309.5"
      inkscape:window-x="0"
      inkscape:window-y="32"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg10"
+     inkscape:current-layer="g887"
      inkscape:showpageshadow="2"
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1" />
@@ -108,10 +108,11 @@
        inkscape:label="Symbols">
       <g
          id="g887"
-         inkscape:label="Towers">
+         inkscape:label="Towers"
+         transform="translate(0,-0.30680058)">
         <g
            id="g828-7-2"
-           transform="matrix(0.08579629,0,0,0.08569417,-11.378978,-3.1572183)"
+           transform="matrix(0.08579629,0,0,0.08569417,-11.378978,-2.2368179)"
            inkscape:label="Bottom Tower">
           <g
              id="g2690-9"
@@ -183,7 +184,7 @@
         </g>
         <g
            id="g828-7"
-           transform="matrix(0.08579629,0,0,0.08569417,-11.378978,-7.6572184)"
+           transform="matrix(0.08579629,0,0,0.08569417,-11.378978,-7.9640183)"
            inkscape:label="Top Tower">
           <g
              id="g2690"
@@ -246,6 +247,78 @@
               <path
                  inkscape:connector-curvature="0"
                  id="path102-1"
+                 d="m 156.7329,106.55635 h -2.31 v 3.59 h 2.52 z"
+                 style="fill:#670913;fill-opacity:1"
+                 inkscape:label="Tower Top Shadow"
+                 transform="translate(1.004613e-6)" />
+            </g>
+          </g>
+        </g>
+        <g
+           id="g828-7-8"
+           transform="matrix(0.08579629,0,0,0.08569417,-11.378978,-5.1004181)"
+           inkscape:label="Top Tower">
+          <g
+             id="g2690-5"
+             inkscape:label="Tower Body">
+            <path
+               inkscape:connector-curvature="0"
+               id="path92-3-6"
+               d="m 142.6829,120.14635 h 18.12 v 6.87 h -18.12 z"
+               style="fill:#ce1126;fill-opacity:1;stroke:#670913;stroke-width:0.52882;stroke-opacity:1"
+               inkscape:label="Tower Bottom Section"
+               transform="translate(1.004613e-6)" />
+            <path
+               inkscape:connector-curvature="0"
+               id="path96-6-1"
+               d="m 146.9029,110.15635 -1.12,9.98 h 11.93 l -1.13,-9.98 z"
+               style="fill:#ce1126;fill-opacity:1;stroke:#670913;stroke-width:0.52882;stroke-opacity:1"
+               inkscape:label="Tower Middle Section"
+               transform="translate(1.004613e-6)" />
+            <path
+               inkscape:connector-curvature="0"
+               id="path94-56-1"
+               d="m 143.6529,104.20635 v 5.94 h 16.17 v -5.94 h -3.08 v 2.35 h -2.46 v -2.35 h -5.08 v 2.35 h -2.46 v -2.35 z"
+               style="fill:#ce1126;fill-opacity:1;stroke:#670913;stroke-width:0.52882;stroke-opacity:1"
+               inkscape:label="Tower Top Section"
+               transform="translate(1.004613e-6)" />
+          </g>
+          <g
+             id="g2703-5"
+             inkscape:label="Tower Features">
+            <path
+               inkscape:connector-curvature="0"
+               id="path98-3-9"
+               d="m 148.7329,112.13635 v 4.02 h 1.45 v -4.02 z m 4.57,0 v 4.02 h 1.45 v -4.02 z"
+               style="fill:#670913;fill-opacity:1"
+               inkscape:label="Tower Windows"
+               transform="translate(1.004613e-6)" />
+            <path
+               inkscape:connector-curvature="0"
+               id="path100-9-8"
+               d="m 151.7429,121.27635 c -1.85,0 -3.36,1.7 -3.36,3.79 v 1.95 h 6.72 v -1.95 c 0,-2.09 -1.5,-3.79 -3.36,-3.79 z"
+               style="fill:#000000;stroke:#670913;stroke-width:0.52882;stroke-opacity:1"
+               inkscape:label="Tower Gate"
+               transform="translate(1.004613e-6)" />
+            <g
+               id="g2681-4"
+               inkscape:label="Tower Shadows">
+              <path
+                 inkscape:connector-curvature="0"
+                 id="path106-4-8"
+                 d="m 156.3329,120.14635 0.23,6.87 h 2.8 l -0.31,-6.87 z"
+                 style="fill:#670913;fill-opacity:1"
+                 inkscape:label="Tower Bottom Shadow" />
+              <path
+                 inkscape:connector-curvature="0"
+                 id="path104-8-1"
+                 d="m 155.2229,110.16635 -0.07,9.96 h 1.77 l -0.92,-9.96 z"
+                 style="fill:#670913;fill-opacity:1"
+                 inkscape:label="Tower Middle Shadow"
+                 transform="translate(1.004613e-6)" />
+              <path
+                 inkscape:connector-curvature="0"
+                 id="path102-1-0"
                  d="m 156.7329,106.55635 h -2.31 v 3.59 h 2.52 z"
                  style="fill:#670913;fill-opacity:1"
                  inkscape:label="Tower Top Shadow"
